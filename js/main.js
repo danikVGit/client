@@ -68,7 +68,7 @@ setTimeout(() => {
 
 // CONNECTION
 // const socketURL = 'wss://cursovaya-psp-server.onrender.com';
-const socketURL = 'https://marvel-server-n3fy.onrender.com';
+const socketURL = 'wss://marvel-server-n3fy.onrender.com';
 
 /*
 НУЖН ТОЛЬКО 1 ЗАПУСК ПОПЫТКИ ПОДКЛЮЧЕНИЯ connection()
